@@ -1,0 +1,165 @@
+/* Whole Page */
+
+body {
+
+    margin: 0;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color: #eaf3ff;
+
+    color: #333333;
+
+}
+
+
+/* Header */
+
+header {
+
+    background-color: #285f8f;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+
+/* Logo */
+/*
+
+.logo {
+
+    width: 120px;
+
+    height: 120px;
+
+    border-radius: 50%;
+
+    object-fit: cover;
+
+}
+*/
+
+/* Navigation */
+
+nav {
+
+    background-color: #174568;
+
+    text-align: center;
+
+    padding: 15px;
+
+}
+
+
+/* Navigation Links */
+
+nav a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 20px;
+
+}
+/* Hero Section */
+
+.about {
+
+    background-image: url("H9.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 100px 40px;
+
+}
+
+
+/* About Section */
+
+.about {
+
+    text-align: center;
+
+    padding: 50px;
+
+}
+
+
+/* About Heading */
+
+.about h1 {
+
+    color: #285f8f;
+
+    font-size: 32px;
+
+}
+
+
+/* About Paragraph */
+
+.about p {
+
+    font-size: 18px;
+
+    line-height: 1.6;
+
+}
+
+
+/* Vision Box */
+
+.vision {
+
+    background-color: white;
+
+    text-align: center;
+
+    padding: 30px;
+
+    margin: 20px;
+
+    border-radius: 10px;
+
+}
+
+
+/* Vision Heading */
+
+.vision h2 {
+
+    color: #285f8f;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background-color: #174568;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin-top: 40px;
+
+}

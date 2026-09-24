@@ -1,0 +1,226 @@
+/* Whole Page */
+
+body {
+
+    margin: 0;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    background-color: #f4edfa;
+
+    color: #333333;
+
+}
+
+
+/* Header */
+/*
+
+header {
+
+    background-color: #24133f;
+
+    color: white;
+
+    text-align: ;
+
+    padding: 20px;
+
+}
+    */
+
+
+/* Logo */
+/*
+.logo {
+
+    width: 12px;
+
+    height: 12px;
+
+    border-radius: 15%;
+
+    object-fit: cover;
+    align-self: left;
+
+}
+*/
+
+/* Navigation */
+
+nav {
+
+    background-color: #4b2866;
+
+    text-align: center;
+
+    padding: 15px;
+
+}
+
+
+/* Navigation Links */
+
+nav a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 20px;
+
+    font-size: 16px;
+
+}
+
+
+/* Hero Section */
+
+.hero {
+
+    height: 400px;
+
+    background-image:
+    linear-gradient(
+        rgba(40, 20, 70, 0.5),
+        rgba(40, 20, 70, 0.5)
+    ),
+    url("H6.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+
+    box-sizing: border-box;
+
+}
+
+
+/* Hero Heading */
+
+.hero h1 {
+
+    font-size: 50px;
+
+    margin: 20px;
+
+}
+
+
+/* Hero Sub Heading */
+
+.hero h2 {
+
+    font-size: 28px;
+
+}
+
+
+/* Hero Paragraph */
+
+.hero p {
+
+    font-size: 18px;
+
+}
+
+
+/* Explore Button */
+
+.button {
+
+    display: inline-block;
+
+    background-color: #8b5bb5;
+
+    color: white;
+
+    padding: 12px 25px;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+
+    margin-top: 15px;
+
+}
+
+
+/* Featured Section */
+
+.featured {
+
+    text-align: center;
+
+    padding: 40px;
+
+}
+
+
+/* Featured Heading */
+
+.featured h1 {
+
+    color: #6a3d8f;
+
+}
+
+
+/* Series Images */
+
+.series-images {
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 20px;
+
+    flex-wrap: wrap;
+
+}
+
+
+/* Each Image */
+
+.series-images img {
+
+    width: 180px;
+
+    height: 240px;
+
+    object-fit: cover;
+
+    border-radius: 10px;
+
+}
+
+
+/* Series Name */
+
+.series-images h3 {
+
+    color: #6a3d8f;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background-color: #24133f;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin-top: 30px;
+
+}

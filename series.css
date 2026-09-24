@@ -1,0 +1,171 @@
+/* Whole Page */
+
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background-color: #fff0f5;
+
+    color: #333333;
+
+}
+
+
+/* Our Series Top Image */
+
+.series-header {
+
+    height: 400px;
+
+    background-image:
+    linear-gradient(
+        rgba(40, 20, 60, 0.25),
+        rgba(40, 20, 60, 0.25)
+    ),
+    url("H10.jpeg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    text-align: center;
+
+    color: white;
+
+    padding-top: 130px;
+
+    box-sizing: border-box;
+
+}
+
+
+/* Our Series Heading */
+
+.series-header h1 {
+
+    font-size: 50px;
+
+    margin: 10px;
+
+}
+
+
+/* Subtitle */
+
+.series-header p {
+
+    font-size: 24px;
+
+}
+
+
+/* Navigation */
+
+nav {
+
+    background-color: #762b4b;
+
+    text-align: center;
+
+    padding: 15px;
+
+}
+
+
+/* Navigation Links */
+
+nav a {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 20px;
+
+    font-size: 16px;
+
+}
+
+
+/* Series Section */
+
+.series {
+
+    text-align: center;
+
+    padding: 40px;
+
+}
+
+
+/* Section Heading */
+
+.series > h1 {
+
+    color: #a83f68;
+
+    font-size: 30px;
+
+}
+
+
+/* Series Box */
+
+.series-box {
+
+    background-color: white;
+
+    width: 220px;
+
+    display: inline-block;
+
+    margin: 15px;
+
+    padding: 10px;
+
+    border-radius: 10px;
+
+}
+
+
+/* Series Image */
+
+.series-box img {
+
+    width: 220px;
+
+    height: 270px;
+
+    object-fit: cover;
+
+    border-radius: 8px;
+
+}
+
+
+/* Series Name */
+
+.series-box h2 {
+
+    color: #a83f68;
+
+}
+
+
+/* Footer */
+
+footer {
+
+    background-color: #762b4b;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin-top: 40px;
+
+}
