@@ -144,3 +144,62 @@ footer {
     margin-top: 40px;
 
 }
+
+/* Form Heading */
+
+.contact-box h2 {
+    color: #3d7a55;
+}
+
+/* Form Labels */
+
+form label {
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+
+/* Input Boxes */
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+/* Message Box */
+
+form textarea {
+    resize: vertical;
+}
+
+/* Submit Button */
+
+form button {
+    background-color: #3d7a55;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Success Message */
+
+#formMessage {
+    color: #285c3d;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
