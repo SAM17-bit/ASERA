@@ -1,0 +1,101 @@
+/* Whole Page */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f3f0ff;
+    color: #333333;
+}
+
+/* Header */
+
+header {
+    background-color: #38245c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Logo */
+
+.logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Navigation */
+
+nav {
+    background-color: #65418a;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Navigation Links */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 16px;
+}
+
+/* Vision Section */
+
+.vision {
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+/* Vision Heading */
+
+.vision h1 {
+    color: #65418a;
+    font-size: 32px;
+}
+
+/* Vision Paragraph */
+
+.vision p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Mission Section */
+
+.mission {
+    background-color: #e4d8f5;
+    text-align: center;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+/* Mission Heading */
+
+.mission h2 {
+    color: #65418a;
+    font-size: 28px;
+}
+
+/* Mission Paragraph */
+
+.mission p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Footer */
+
+footer {
+    background-color: #38245c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
